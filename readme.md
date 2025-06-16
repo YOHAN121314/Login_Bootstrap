@@ -2,8 +2,6 @@
 
 ## 🎯 Finalidad del Proyecto
 
-## 🧾 Finalidad del Proyecto
-
 Este proyecto tiene como objetivo implementar una interfaz básica de autenticación de usuarios, incluyendo las funcionalidades de:
 - Inicio de sesión
 - Registro de nuevos usuarios
